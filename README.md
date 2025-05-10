@@ -1,5 +1,8 @@
 # Intelligent ASCII Art Converter
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Swing](https://img.shields.io/badge/GUI-Java_Swing-007396)
 
 A sophisticated Java application that converts images to ASCII art with intelligent character sizing and resolution control.
 
